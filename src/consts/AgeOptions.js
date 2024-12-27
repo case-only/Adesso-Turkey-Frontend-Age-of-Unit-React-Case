@@ -1,0 +1,22 @@
+export const AGE_OPTIONS=[
+    {
+        key:"All",
+        value:"All"
+    },
+    {
+        key:"Dark",
+        value:"Dark"
+    },
+    {
+        key:"Imperial",
+        value:"Imperial"
+    },
+    {
+        key:"Castle",
+        value:"Castle"
+    },
+    {
+        key:"Feudal",
+        value:"Feudal"
+    }
+]

@@ -1,0 +1,1 @@
+export const UNIT_TABLE_HEADERS=['name','age','cost']
